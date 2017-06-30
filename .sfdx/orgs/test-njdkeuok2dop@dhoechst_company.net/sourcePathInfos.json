@@ -32,28 +32,28 @@
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 340,
             "modifiedTime": 1498862112000,
             "changeTime": 1498862112000,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 170,
-            "modifiedTime": 1498861407000,
-            "changeTime": 1498861407000,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 238,
+            "modifiedTime": 1498863248000,
+            "changeTime": 1498863248000,
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -868,10 +868,10 @@
         {
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 182,
-            "modifiedTime": 1498861513000,
-            "changeTime": 1498861513000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "size": 207,
+            "modifiedTime": 1498863076000,
+            "changeTime": 1498863076000,
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1061,14 +1061,14 @@
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 334,
-            "modifiedTime": 1498861463000,
-            "changeTime": 1498861463000,
-            "contentHash": "8bc7614f82244bbe832f4be0cf07d5c8c2171640",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 406,
+            "modifiedTime": 1498863335000,
+            "changeTime": 1498863335000,
+            "contentHash": "f1ed2171318d4ab0d0ec40153129ebe28e83521b"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1498861442000,
-            "changeTime": 1498861442000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 396,
+            "modifiedTime": 1498863359000,
+            "changeTime": 1498863359000,
+            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
         }
     ],
     [
@@ -1217,40 +1217,170 @@
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1498862112000,
             "changeTime": 1498862112000,
-            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default/staticresources/leaflet.resource",
         {
-            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/staticresources/leaflet.resource",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 480856,
             "modifiedTime": 1498862112000,
             "changeTime": 1498862112000,
-            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f"
+            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/dhoechst/dx/geolocation/force-app/main/default/staticresources",
         {
-            "state": "u",
             "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1498862112000,
             "changeTime": 1498862112000,
-            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa"
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1498862400000,
+            "changeTime": 1498862400000,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 336,
+            "modifiedTime": 1498863402000,
+            "changeTime": 1498863402000,
+            "contentHash": "99f30e58049327296f62c3741fa12d6d58da1b6e"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1498862400000,
+            "changeTime": 1498862400000,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 43,
+            "modifiedTime": 1498863020000,
+            "changeTime": 1498863020000,
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 899,
+            "modifiedTime": 1498863439000,
+            "changeTime": 1498863439000,
+            "contentHash": "97f0dbc4894505925705dd8831b259ef1de42368"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1498862400000,
+            "changeTime": 1498862400000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1498862400000,
+            "changeTime": 1498862400000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1498863248000,
+            "changeTime": 1498863248000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1498863296000,
+            "changeTime": 1498863296000,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
+        }
+    ],
+    [
+        "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dhoechst/dx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1498863248000,
+            "changeTime": 1498863248000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]
